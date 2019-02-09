@@ -1,0 +1,2 @@
+# QuineMcClausky
+Quine McClausky Algorithm
